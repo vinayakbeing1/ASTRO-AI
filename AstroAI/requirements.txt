@@ -1,0 +1,17 @@
+Django
+httpx
+langchain
+langgraph
+langchain-openai
+pydantic
+python-dotenv
+djangorestframework
+psycopg2
+python-dateutil
+svgwrite
+django-ninja
+PyJWT
+pytz
+geopy
+geocoder
+pyswisseph

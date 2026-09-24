@@ -1,0 +1,1 @@
+# AstroAI astrology app package
